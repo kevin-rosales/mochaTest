@@ -1,0 +1,15 @@
+{
+  "name": "mochatest",
+  "version": "1.0.0",
+  "description": "simple app for testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha -R nyan|| true"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
